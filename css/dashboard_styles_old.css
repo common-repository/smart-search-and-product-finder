@@ -1,0 +1,159 @@
+.esse_logo_old {
+    font-weight: 1000;
+    font-size: 35px
+}
+.esse_description_old {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 110%;
+    /* or 88px */
+
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #000929;
+}
+
+.esse_search_old {
+    color: #3981F7
+}
+
+.esse_description_2_old {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 140%;
+    /* or 34px */
+
+    text-align: center;
+    letter-spacing: -0.01em;
+
+    /* Main Color/Black */
+
+    color: #0A112F;
+}
+
+.esse_get_started {
+    margin-top: 4%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* padding: 22px 32px; */
+    gap: 16px;
+
+    width: 199px;
+    height: 80px;
+    margin: 2.5% auto;
+
+    /* Main Color/Black */
+
+    background: #0A112F;
+    border-radius: 100px;
+}
+.esse_get_started_text {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    /* identical to box height, or 36px */
+
+    letter-spacing: -0.01em;
+
+    /* Main Color/White */
+
+    color: #FFFFFF;
+
+}
+
+.esse_api_key_old {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 217%;
+    /* identical to box height, or 29px */
+
+    letter-spacing: -0.01em;
+
+    color: #000000;
+}
+
+.esse_key_input_old {
+    display: flex !important;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 12.6208px 16.1546px !important;
+    gap: 4.04px !important;
+
+    width: 343.92px !important;
+    height: 40.24px !important;
+
+    background: #F5F9FF;
+    border-radius: 50.4831px !important;
+
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 160% !important;
+}
+
+.esse_save_and_submit_old {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 11.1063px 16.1546px;
+    gap: 8.08px;
+    margin-left: 10px;
+    height: 40.21px;
+
+    /* Main Color/Black */
+
+    background: #0A112F;
+    border-radius: 50.4831px;
+    cursor: pointer;
+}
+
+.esse_save_and_submit_text_old {
+    height: 18px;
+
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 150%;
+    /* identical to box height, or 18px */
+
+    letter-spacing: -0.01em;
+
+    /* Main Color/White */
+
+    color: #FFFFFF;
+
+}
+
+.esse_message_old {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 160%;
+    /* or 22px */
+
+    font-feature-settings: 'ss03' on;
+
+    /* Greyscale / Grey 600 */
+
+    color: #585860;
+}
+
+.esse_a_href_old {
+    text-decoration: none;
+    display: contents;
+}
